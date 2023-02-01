@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "o8y/N5Fs9hhMnYObRBbaqmuXMy7fCk5SxDKmE28zr8oKC/dfq6gdVgvVLmhFrRytt0RuWLlJ8NPlG0bIw9CTUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\d.muhammad\\DioProgram\\DioProgram.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://tfsserver01/nuget/AllegroNugetFeed'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://tfsserver01/nuget/StagingFeed'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\d.muhammad\DioProgram\bin\Debug\net7.0\DioProgram.exe
+C:\Users\d.muhammad\DioProgram\bin\Debug\net7.0\DioProgram.deps.json
+C:\Users\d.muhammad\DioProgram\bin\Debug\net7.0\DioProgram.runtimeconfig.json
+C:\Users\d.muhammad\DioProgram\bin\Debug\net7.0\DioProgram.dll
+C:\Users\d.muhammad\DioProgram\bin\Debug\net7.0\DioProgram.pdb
+C:\Users\d.muhammad\DioProgram\obj\Debug\net7.0\DioProgram.csproj.AssemblyReference.cache
+C:\Users\d.muhammad\DioProgram\obj\Debug\net7.0\DioProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.muhammad\DioProgram\obj\Debug\net7.0\DioProgram.AssemblyInfoInputs.cache
+C:\Users\d.muhammad\DioProgram\obj\Debug\net7.0\DioProgram.AssemblyInfo.cs
+C:\Users\d.muhammad\DioProgram\obj\Debug\net7.0\DioProgram.csproj.CoreCompileInputs.cache
+C:\Users\d.muhammad\DioProgram\obj\Debug\net7.0\DioProgram.dll
+C:\Users\d.muhammad\DioProgram\obj\Debug\net7.0\refint\DioProgram.dll
+C:\Users\d.muhammad\DioProgram\obj\Debug\net7.0\DioProgram.pdb
+C:\Users\d.muhammad\DioProgram\obj\Debug\net7.0\DioProgram.genruntimeconfig.cache
+C:\Users\d.muhammad\DioProgram\obj\Debug\net7.0\ref\DioProgram.dll
